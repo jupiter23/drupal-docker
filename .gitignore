@@ -1,0 +1,8 @@
+/web/*
+!/web/.gitkeep
+/data/db/mysql/*
+!/data/db/mysql/.gitkeep
+/vendor/
+composer.lock
+.idea
+.DS_Store
